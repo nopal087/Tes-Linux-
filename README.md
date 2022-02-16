@@ -62,3 +62,14 @@ Lalu pilih tombol Install Now dan Continue
  
 # 2. Use LXQt as desktop environment 
 Disini kami menggunakan distro Lubuntu dengan Desktop Environment LXQT
+
+# 3. Configure the DE, and remove sysbar panel at the bottom of the screen
+File terlampir pada 3.sh
+# 4. Create a service stated in this link
+File terlampir pada 4.sh
+# 5. Create a script to list HID and Storage Devices connected through USB
+File terlampir pada 5.sh
+# 6. Create a script to update, upgrade, and remove unused packages
+File terlampir pada 6.sh
+# 7. Create an autorun script to show a terminal window when DE is loaded
+File terlampir pada 7.sh
