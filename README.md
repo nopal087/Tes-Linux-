@@ -1,8 +1,8 @@
 Nama Anggota Kelompok
-Danis Ardani (2202070)
-Muhammad Naufal Faruq (2202073)
-Muhammad Nurudin Hidayat (2202068)
-Dimas Asmaramany (2202096)
+- Danis Ardani (2202070)
+- Muhammad Naufal Faruq (2202073)
+- Muhammad Nurudin Hidayat (2202068)
+- Dimas Asmaramany (2202096)
 
 
 # 1. Cara Install Linux Lubuntu Dualboot
