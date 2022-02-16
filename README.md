@@ -1,11 +1,10 @@
-
 Nama Anggota Kelompok
 Danis Ardani (2202070)
 Muhammad Naufal Faruq (2202073)
 Muhammad Nurudin Hidayat (2202068)
 Dimas Asmaramany (2202096)
 
-Cara Install Linux Lubuntu Dualboot
+# 1. Cara Install Linux Lubuntu Dualboot
 langkah install linux Lubuntu dualboot dengan windows
 1. siapkan file iso yang akan digunakan untuk membuat bootable
 2. Buat Partisi baru
@@ -59,8 +58,8 @@ Lalu pilih tombol Install Now dan Continue
 9.	Mengatur akun Login
 -	 Masukkan nama 
 -	Password
-10.	Langkah terakhir adalah proses install dengan menklik install maka proses installasi akan dimulai
-11.	Proses installasi selesai.
+-	Langkah terakhir adalah proses install dengan menklik install maka proses installasi akan dimulai
+-	Proses installasi selesai.
  
-2. Use LXQt as desktop environment 
+# 2. Use LXQt as desktop environment 
 Disini kami menggunakan distro Lubuntu dengan Desktop Environment LXQT
