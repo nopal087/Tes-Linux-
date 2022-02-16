@@ -4,6 +4,7 @@ Muhammad Naufal Faruq (2202073)
 Muhammad Nurudin Hidayat (2202068)
 Dimas Asmaramany (2202096)
 
+
 # 1. Cara Install Linux Lubuntu Dualboot
 langkah install linux Lubuntu dualboot dengan windows
 1. siapkan file iso yang akan digunakan untuk membuat bootable
@@ -12,9 +13,7 @@ langkah install linux Lubuntu dualboot dengan windows
 3.	Menggunakan Flashdisk Bootable
 Selanjutnya,  gunakan flashdisk yang sudah bootable dengan OS Lubuntu, menggunakan software atau aplikasi Rufus.
 4.	Booting lewat Flashdisk
-Karena kami menggunakan Flashdisk untuk media instalasi, maka pertama kali kita harus masuk ke settingan BIOS terlebih dahulu, lalu pilih Boot Priority set ke nama atau merk flashdisk.
-
-tekan tombol di keyboard F2, Del atau kombinasi tombol lainnya. Sesuaikan dengan spesifikasi Komputer atau Laptop. Setelah itu jangan lupa simpan settingan BIOS.
+- Karena kami menggunakan Flashdisk untuk media instalasi, maka pertama kali kita harus masuk ke settingan BIOS terlebih dahulu, lalu pilih Boot Priority set ke nama atau merk flashdisk. Tekan tombol di keyboard F2, Del atau kombinasi tombol lainnya. Sesuaikan dengan spesifikasi Komputer atau Laptop. Setelah itu jangan lupa simpan settingan BIOS.
 
 5.	Mulai Instalasi Lubuntu
 -	Pertama-tama untuk memulai instalasi, pada bagian Welcome kalian pilih bahasa English, lalu Continue , atau Install Lubuntu. 
